@@ -17,10 +17,10 @@
 
 1. Добавление спрайтов еды и змейки.
  
-____________________![image](https://user-images.githubusercontent.com/119228138/204997873-821b8d18-5b92-4449-9bd7-69e911db2e3b.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204997873-821b8d18-5b92-4449-9bd7-69e911db2e3b.png)
 
  
-____________________Рисунок 18.1 спрайты змейки и еды
+       Рисунок 18.1 спрайты змейки и еды
 
 2.скрипт для передвижения, Snake.
 ```
@@ -170,17 +170,17 @@ public class Food : MonoBehaviour
 
 4.	Были созданы сегменты для увеличения змейки.
  
-____________________![image](https://user-images.githubusercontent.com/119228138/204997913-ed611416-0a48-4b00-bf53-8be2dd13a049.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204997913-ed611416-0a48-4b00-bf53-8be2dd13a049.png)
 
  
-____________________Рисунок 18.2 сегменты змейки
+       Рисунок 18.2 сегменты змейки
 
 5.	Были созданы стены, GameTag  “Obstacle” и привязан “Obstacle” к стенам змейке.
  
- ________________![image](https://user-images.githubusercontent.com/119228138/204997938-b58fc75a-7384-4666-bfc0-61c1a1afda18.png)
+       ![image](https://user-images.githubusercontent.com/119228138/204997938-b58fc75a-7384-4666-bfc0-61c1a1afda18.png)
 
  
-____________________Рисунок 18.3 кадр сделанный при тесте игры
+       Рисунок 18.3 кадр сделанный при тесте игры
 
 Вывод: В ходе проделанной работы был разработана Легендарная игра Snake
 
